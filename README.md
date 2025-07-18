@@ -9,9 +9,9 @@ Alerts driver with a alarm sound when drowsiness is detected
 Basic frontend UI built using HTML, CSS, and JavaScript  
 
 ## Technologies Used
- Python – for backend logic and drowsiness detection  
-OpenCV – for real-time video processing  
-dlib – for facial landmark detection  
-imutils – for image processing helper functions  
-Pygame – to play alarm/buzzer sound when drowsiness is detected  
-HTML, CSS, JavaScript – for the frontend user interface  
+ **Python** – for backend logic and drowsiness detection  
+**OpenCV** – for real-time video processing  
+**Dlib** – for facial landmark detection  
+**imutils** – for image processing helper functions  
+**Pygame** – to play alarm/buzzer sound when drowsiness is detected  
+**HTML, CSS, JavaScript** – for the frontend user interface  
